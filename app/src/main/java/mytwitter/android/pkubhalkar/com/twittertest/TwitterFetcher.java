@@ -58,8 +58,8 @@ import io.fabric.sdk.android.Fabric;
  */
 public class TwitterFetcher {
     // Note: Your consumer key and secret should be obfuscated in your source code before shipping.
-    private static final String TWITTER_KEY             = "kpqicK6cbAN3qLgoVtxFGBXPs";
-    private static final String TWITTER_SECRET          = "iClI2B0V0Fjt7t2Oh4TBWZNKk39rXMHH0nUmcbFiUErBcjfba7";
+    private static final String TWITTER_KEY             = "<<Your key>>";
+    private static final String TWITTER_SECRET          = "<<Your secret key>>";
     public static  final String SEARCH_QUERY            = "SEARCHQUERY";
     public static  final String OPERATION_SEARCH        = "SEARCH";
     public static  final String OPERATION_TIMELINE      = "TIMELINE";
